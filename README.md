@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
-🎓 Estudante de <strong>ADS</strong> (Análise e Desenvolvimento de Sistemas)<br>
-🧪 Atuando como Testador de Software (CQ)<br>
+🎓 <strong>ADS</strong> (Systems Analysis and Development) student<br>
+🧪 Working as a Software Tester <stronger>(CQ)</stronger><br>
 </p>
 <div> 
     <a href="https://www.linkedin.com/in/gustavo-furtado-705798212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
