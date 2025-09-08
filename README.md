@@ -14,18 +14,19 @@
 
 ###
 
-<h2 align="left">🛠️ Tecnologias</h2>
+<h2 align="left">💻 Tecnologias</h2>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="35" width="35" alt="IntelliJ" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="35" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" width="35" alt="SpringBoot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="35" width="35" alt="MySqlWorkbench"/>       
+    
   </div>
     
   ###
+  <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavofcamposss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
@@ -35,6 +36,7 @@
 </div>
 
 ###
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavofcamposss/gustavofcamposss/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavofcamposss/gustavofcamposss/output/pacman-contribution-graph.svg">
