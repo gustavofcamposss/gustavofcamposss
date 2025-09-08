@@ -1,10 +1,10 @@
-<h1 align="left">👋 Olá, sou Gustavo Furtado Campos!</h1>
+<h1> Hi there 👋 I'm Gustavo F.Campos 👨‍💻 </h1>
 
 ###
 
 <p align="left">
-🎓 <strong>ADS</strong> (Análise e Desenvolvimento de Sistema)<br>
-💻 Java + SpringBoot<br>
+🎓 Estudante de <strong>ADS</strong> (Análise e Desenvolvimento de Sistemas)<br>
+🧪 Atuando como Testador de Software (CQ)<br>
 </p>
 <div> 
     <a href="https://www.linkedin.com/in/gustavo-furtado-705798212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -12,21 +12,35 @@
 
 </div>
 
-###
+<br>
+<br>
 
-<h2 align="left">💻 Tecnologias</h2>
+## 📋 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
-<div style="display: flex; align-items: center; gap: 12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="35" width="35" alt="IntelliJ" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="35" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" width="35" alt="SpringBoot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="35" width="35" alt="MySqlWorkbench"/>       
+## 💾 Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 💻 IDEs/Editors
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36px" widht="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36px" widht="36"/>
+
+## ➕ Other
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)     
     
   </div>
     
-  ###
-  <br>
+
+<br>
+<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavofcamposss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
